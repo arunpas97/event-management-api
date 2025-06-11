@@ -1,9 +1,9 @@
 
-Event Management API
+# Event Management API
 
 This repository contains an Event Management API built with Django and Django REST Framework. It allows users to create events, register attendees, and retrieve event and attendee details. 
 
-Table of Contents
+## Table of Contents
 1. [Setup Instructions](#setup-instructions)
 2. [Assumptions](#assumptions)
 3. [API Endpoints](#api-endpoints)
@@ -13,20 +13,18 @@ Table of Contents
    - [List Attendees for an Event](#list-attendees-for-an-event)
 4. [Sample API Requests](#sample-api-requests)
 
----
+**Setup Instructions**
 
-Setup Instructions
-
-Prerequisites
+### Prerequisites
 - Python 3.10+
 - Django 4.x
-- PostgreSQL (or any preferred database)
+- SQLite3
 - Virtual Environment (recommended)
 
-Steps
+### Steps
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/yourusername/event-management-api.git
+   git clone https://github.com/arunpas97/event-management-api.git
    cd event-management-api
 
 2. Create a Virtual Environment:
