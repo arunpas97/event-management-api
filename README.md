@@ -13,7 +13,7 @@ This repository contains an Event Management API built with Django and Django RE
    - [List Attendees for an Event](#list-attendees-for-an-event)
 4. [Sample API Requests](#sample-api-requests)
 
-**Setup Instructions**
+##Setup Instructions
 
 ### Prerequisites
 - Python 3.10+
