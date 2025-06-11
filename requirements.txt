@@ -1,0 +1,6 @@
+Django
+djangorestframework
+pytz
+drf-yasg
+pytest-django
+pytest
